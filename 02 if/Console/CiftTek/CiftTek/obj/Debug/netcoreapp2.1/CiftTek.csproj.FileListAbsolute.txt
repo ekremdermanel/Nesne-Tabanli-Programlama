@@ -1,0 +1,11 @@
+C:\Users\ogrenci\Desktop\Projeler\CiftTek\CiftTek\bin\Debug\netcoreapp2.1\CiftTek.deps.json
+C:\Users\ogrenci\Desktop\Projeler\CiftTek\CiftTek\bin\Debug\netcoreapp2.1\CiftTek.runtimeconfig.json
+C:\Users\ogrenci\Desktop\Projeler\CiftTek\CiftTek\bin\Debug\netcoreapp2.1\CiftTek.runtimeconfig.dev.json
+C:\Users\ogrenci\Desktop\Projeler\CiftTek\CiftTek\bin\Debug\netcoreapp2.1\CiftTek.dll
+C:\Users\ogrenci\Desktop\Projeler\CiftTek\CiftTek\bin\Debug\netcoreapp2.1\CiftTek.pdb
+C:\Users\ogrenci\Desktop\Projeler\CiftTek\CiftTek\obj\Debug\netcoreapp2.1\CiftTek.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Projeler\CiftTek\CiftTek\obj\Debug\netcoreapp2.1\CiftTek.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\CiftTek\CiftTek\obj\Debug\netcoreapp2.1\CiftTek.AssemblyInfoInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\CiftTek\CiftTek\obj\Debug\netcoreapp2.1\CiftTek.AssemblyInfo.cs
+C:\Users\ogrenci\Desktop\Projeler\CiftTek\CiftTek\obj\Debug\netcoreapp2.1\CiftTek.dll
+C:\Users\ogrenci\Desktop\Projeler\CiftTek\CiftTek\obj\Debug\netcoreapp2.1\CiftTek.pdb

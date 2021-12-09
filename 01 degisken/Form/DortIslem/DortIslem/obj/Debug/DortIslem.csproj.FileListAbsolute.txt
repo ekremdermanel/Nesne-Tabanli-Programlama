@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Form Uygulamaları\DortIslem\DortIslem\bin\Debug\DortIslem.exe.config
+C:\Users\ogrenci\Desktop\Form Uygulamaları\DortIslem\DortIslem\bin\Debug\DortIslem.exe
+C:\Users\ogrenci\Desktop\Form Uygulamaları\DortIslem\DortIslem\bin\Debug\DortIslem.pdb
+C:\Users\ogrenci\Desktop\Form Uygulamaları\DortIslem\DortIslem\obj\Debug\DortIslem.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Form Uygulamaları\DortIslem\DortIslem\obj\Debug\DortIslem.Form1.resources
+C:\Users\ogrenci\Desktop\Form Uygulamaları\DortIslem\DortIslem\obj\Debug\DortIslem.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Form Uygulamaları\DortIslem\DortIslem\obj\Debug\DortIslem.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Form Uygulamaları\DortIslem\DortIslem\obj\Debug\DortIslem.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Form Uygulamaları\DortIslem\DortIslem\obj\Debug\DortIslem.exe
+C:\Users\ogrenci\Desktop\Form Uygulamaları\DortIslem\DortIslem\obj\Debug\DortIslem.pdb

@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp_11112021\VucutKitleEndeksi\VucutKitleEndeksi\bin\Debug\VucutKitleEndeksi.exe.config
+C:\Users\ogrenci\Desktop\ntp_11112021\VucutKitleEndeksi\VucutKitleEndeksi\bin\Debug\VucutKitleEndeksi.exe
+C:\Users\ogrenci\Desktop\ntp_11112021\VucutKitleEndeksi\VucutKitleEndeksi\bin\Debug\VucutKitleEndeksi.pdb
+C:\Users\ogrenci\Desktop\ntp_11112021\VucutKitleEndeksi\VucutKitleEndeksi\obj\Debug\VucutKitleEndeksi.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\VucutKitleEndeksi\VucutKitleEndeksi\obj\Debug\VucutKitleEndeksi.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_11112021\VucutKitleEndeksi\VucutKitleEndeksi\obj\Debug\VucutKitleEndeksi.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_11112021\VucutKitleEndeksi\VucutKitleEndeksi\obj\Debug\VucutKitleEndeksi.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\VucutKitleEndeksi\VucutKitleEndeksi\obj\Debug\VucutKitleEndeksi.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\VucutKitleEndeksi\VucutKitleEndeksi\obj\Debug\VucutKitleEndeksi.exe
+C:\Users\ogrenci\Desktop\ntp_11112021\VucutKitleEndeksi\VucutKitleEndeksi\obj\Debug\VucutKitleEndeksi.pdb

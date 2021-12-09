@@ -1,0 +1,11 @@
+C:\Users\ogrenci\Desktop\Projeler\Ortalama\Ortalama\bin\Debug\netcoreapp2.1\Ortalama.deps.json
+C:\Users\ogrenci\Desktop\Projeler\Ortalama\Ortalama\bin\Debug\netcoreapp2.1\Ortalama.runtimeconfig.json
+C:\Users\ogrenci\Desktop\Projeler\Ortalama\Ortalama\bin\Debug\netcoreapp2.1\Ortalama.runtimeconfig.dev.json
+C:\Users\ogrenci\Desktop\Projeler\Ortalama\Ortalama\bin\Debug\netcoreapp2.1\Ortalama.dll
+C:\Users\ogrenci\Desktop\Projeler\Ortalama\Ortalama\bin\Debug\netcoreapp2.1\Ortalama.pdb
+C:\Users\ogrenci\Desktop\Projeler\Ortalama\Ortalama\obj\Debug\netcoreapp2.1\Ortalama.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Projeler\Ortalama\Ortalama\obj\Debug\netcoreapp2.1\Ortalama.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\Ortalama\Ortalama\obj\Debug\netcoreapp2.1\Ortalama.AssemblyInfoInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\Ortalama\Ortalama\obj\Debug\netcoreapp2.1\Ortalama.AssemblyInfo.cs
+C:\Users\ogrenci\Desktop\Projeler\Ortalama\Ortalama\obj\Debug\netcoreapp2.1\Ortalama.dll
+C:\Users\ogrenci\Desktop\Projeler\Ortalama\Ortalama\obj\Debug\netcoreapp2.1\Ortalama.pdb

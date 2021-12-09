@@ -1,0 +1,20 @@
+C:\Users\ogrenci\Desktop\ntp_07102021\Pizzaci\Pizzaci\bin\Debug\Pizzaci.exe.config
+C:\Users\ogrenci\Desktop\ntp_07102021\Pizzaci\Pizzaci\bin\Debug\Pizzaci.exe
+C:\Users\ogrenci\Desktop\ntp_07102021\Pizzaci\Pizzaci\bin\Debug\Pizzaci.pdb
+C:\Users\ogrenci\Desktop\ntp_07102021\Pizzaci\Pizzaci\obj\Debug\Pizzaci.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp_07102021\Pizzaci\Pizzaci\obj\Debug\Pizzaci.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_07102021\Pizzaci\Pizzaci\obj\Debug\Pizzaci.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_07102021\Pizzaci\Pizzaci\obj\Debug\Pizzaci.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_07102021\Pizzaci\Pizzaci\obj\Debug\Pizzaci.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_07102021\Pizzaci\Pizzaci\obj\Debug\Pizzaci.exe
+C:\Users\ogrenci\Desktop\ntp_07102021\Pizzaci\Pizzaci\obj\Debug\Pizzaci.pdb
+C:\Users\ogrenci\Desktop\ntp 10c\ntp_071021\Pizzaci2\Pizzaci\bin\Debug\Pizzaci.exe.config
+C:\Users\ogrenci\Desktop\ntp 10c\ntp_071021\Pizzaci2\Pizzaci\bin\Debug\Pizzaci.exe
+C:\Users\ogrenci\Desktop\ntp 10c\ntp_071021\Pizzaci2\Pizzaci\bin\Debug\Pizzaci.pdb
+C:\Users\ogrenci\Desktop\ntp 10c\ntp_071021\Pizzaci2\Pizzaci\obj\Debug\Pizzaci.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp 10c\ntp_071021\Pizzaci2\Pizzaci\obj\Debug\Pizzaci.Form1.resources
+C:\Users\ogrenci\Desktop\ntp 10c\ntp_071021\Pizzaci2\Pizzaci\obj\Debug\Pizzaci.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp 10c\ntp_071021\Pizzaci2\Pizzaci\obj\Debug\Pizzaci.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp 10c\ntp_071021\Pizzaci2\Pizzaci\obj\Debug\Pizzaci.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp 10c\ntp_071021\Pizzaci2\Pizzaci\obj\Debug\Pizzaci.exe
+C:\Users\ogrenci\Desktop\ntp 10c\ntp_071021\Pizzaci2\Pizzaci\obj\Debug\Pizzaci.pdb

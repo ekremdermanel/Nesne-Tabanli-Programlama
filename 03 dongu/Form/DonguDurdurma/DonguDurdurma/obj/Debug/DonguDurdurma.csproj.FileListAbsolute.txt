@@ -1,0 +1,9 @@
+C:\Users\ogrenci\Desktop\ntp_11112021\DonguDurdurma\DonguDurdurma\bin\Debug\DonguDurdurma.exe.config
+C:\Users\ogrenci\Desktop\ntp_11112021\DonguDurdurma\DonguDurdurma\bin\Debug\DonguDurdurma.exe
+C:\Users\ogrenci\Desktop\ntp_11112021\DonguDurdurma\DonguDurdurma\bin\Debug\DonguDurdurma.pdb
+C:\Users\ogrenci\Desktop\ntp_11112021\DonguDurdurma\DonguDurdurma\obj\Debug\DonguDurdurma.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_11112021\DonguDurdurma\DonguDurdurma\obj\Debug\DonguDurdurma.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_11112021\DonguDurdurma\DonguDurdurma\obj\Debug\DonguDurdurma.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\DonguDurdurma\DonguDurdurma\obj\Debug\DonguDurdurma.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\DonguDurdurma\DonguDurdurma\obj\Debug\DonguDurdurma.exe
+C:\Users\ogrenci\Desktop\ntp_11112021\DonguDurdurma\DonguDurdurma\obj\Debug\DonguDurdurma.pdb

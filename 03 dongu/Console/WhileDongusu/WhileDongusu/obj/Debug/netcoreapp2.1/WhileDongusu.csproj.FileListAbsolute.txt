@@ -1,0 +1,11 @@
+C:\Users\ogrenci\Desktop\Projeler\WhileDongusu\WhileDongusu\bin\Debug\netcoreapp2.1\WhileDongusu.deps.json
+C:\Users\ogrenci\Desktop\Projeler\WhileDongusu\WhileDongusu\bin\Debug\netcoreapp2.1\WhileDongusu.runtimeconfig.json
+C:\Users\ogrenci\Desktop\Projeler\WhileDongusu\WhileDongusu\bin\Debug\netcoreapp2.1\WhileDongusu.runtimeconfig.dev.json
+C:\Users\ogrenci\Desktop\Projeler\WhileDongusu\WhileDongusu\bin\Debug\netcoreapp2.1\WhileDongusu.dll
+C:\Users\ogrenci\Desktop\Projeler\WhileDongusu\WhileDongusu\bin\Debug\netcoreapp2.1\WhileDongusu.pdb
+C:\Users\ogrenci\Desktop\Projeler\WhileDongusu\WhileDongusu\obj\Debug\netcoreapp2.1\WhileDongusu.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Projeler\WhileDongusu\WhileDongusu\obj\Debug\netcoreapp2.1\WhileDongusu.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\WhileDongusu\WhileDongusu\obj\Debug\netcoreapp2.1\WhileDongusu.AssemblyInfoInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\WhileDongusu\WhileDongusu\obj\Debug\netcoreapp2.1\WhileDongusu.AssemblyInfo.cs
+C:\Users\ogrenci\Desktop\Projeler\WhileDongusu\WhileDongusu\obj\Debug\netcoreapp2.1\WhileDongusu.dll
+C:\Users\ogrenci\Desktop\Projeler\WhileDongusu\WhileDongusu\obj\Debug\netcoreapp2.1\WhileDongusu.pdb

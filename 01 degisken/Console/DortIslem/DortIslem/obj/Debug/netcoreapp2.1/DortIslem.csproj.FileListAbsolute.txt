@@ -1,0 +1,11 @@
+C:\Users\ogrenci\Desktop\Projeler\DortIslem\DortIslem\bin\Debug\netcoreapp2.1\DortIslem.deps.json
+C:\Users\ogrenci\Desktop\Projeler\DortIslem\DortIslem\bin\Debug\netcoreapp2.1\DortIslem.runtimeconfig.json
+C:\Users\ogrenci\Desktop\Projeler\DortIslem\DortIslem\bin\Debug\netcoreapp2.1\DortIslem.runtimeconfig.dev.json
+C:\Users\ogrenci\Desktop\Projeler\DortIslem\DortIslem\bin\Debug\netcoreapp2.1\DortIslem.dll
+C:\Users\ogrenci\Desktop\Projeler\DortIslem\DortIslem\bin\Debug\netcoreapp2.1\DortIslem.pdb
+C:\Users\ogrenci\Desktop\Projeler\DortIslem\DortIslem\obj\Debug\netcoreapp2.1\DortIslem.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Projeler\DortIslem\DortIslem\obj\Debug\netcoreapp2.1\DortIslem.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\DortIslem\DortIslem\obj\Debug\netcoreapp2.1\DortIslem.AssemblyInfoInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\DortIslem\DortIslem\obj\Debug\netcoreapp2.1\DortIslem.AssemblyInfo.cs
+C:\Users\ogrenci\Desktop\Projeler\DortIslem\DortIslem\obj\Debug\netcoreapp2.1\DortIslem.dll
+C:\Users\ogrenci\Desktop\Projeler\DortIslem\DortIslem\obj\Debug\netcoreapp2.1\DortIslem.pdb

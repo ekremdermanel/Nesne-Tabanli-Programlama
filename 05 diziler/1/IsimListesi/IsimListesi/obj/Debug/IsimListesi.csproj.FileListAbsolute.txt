@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp 251121\IsimListesi\IsimListesi\bin\Debug\IsimListesi.exe.config
+C:\Users\ogrenci\Desktop\ntp 251121\IsimListesi\IsimListesi\bin\Debug\IsimListesi.exe
+C:\Users\ogrenci\Desktop\ntp 251121\IsimListesi\IsimListesi\bin\Debug\IsimListesi.pdb
+C:\Users\ogrenci\Desktop\ntp 251121\IsimListesi\IsimListesi\obj\Debug\IsimListesi.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp 251121\IsimListesi\IsimListesi\obj\Debug\IsimListesi.Form1.resources
+C:\Users\ogrenci\Desktop\ntp 251121\IsimListesi\IsimListesi\obj\Debug\IsimListesi.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp 251121\IsimListesi\IsimListesi\obj\Debug\IsimListesi.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp 251121\IsimListesi\IsimListesi\obj\Debug\IsimListesi.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp 251121\IsimListesi\IsimListesi\obj\Debug\IsimListesi.exe
+C:\Users\ogrenci\Desktop\ntp 251121\IsimListesi\IsimListesi\obj\Debug\IsimListesi.pdb

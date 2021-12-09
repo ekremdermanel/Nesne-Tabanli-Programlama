@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretWhile\SayiUretWhile\bin\Debug\SayiUretWhile.exe.config
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretWhile\SayiUretWhile\bin\Debug\SayiUretWhile.exe
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretWhile\SayiUretWhile\bin\Debug\SayiUretWhile.pdb
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretWhile\SayiUretWhile\obj\Debug\SayiUretWhile.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretWhile\SayiUretWhile\obj\Debug\SayiUretWhile.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretWhile\SayiUretWhile\obj\Debug\SayiUretWhile.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretWhile\SayiUretWhile\obj\Debug\SayiUretWhile.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretWhile\SayiUretWhile\obj\Debug\SayiUretWhile.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretWhile\SayiUretWhile\obj\Debug\SayiUretWhile.exe
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretWhile\SayiUretWhile\obj\Debug\SayiUretWhile.pdb

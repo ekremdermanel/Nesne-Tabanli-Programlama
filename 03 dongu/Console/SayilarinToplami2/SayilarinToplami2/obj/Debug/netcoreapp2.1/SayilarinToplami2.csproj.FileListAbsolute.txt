@@ -1,0 +1,11 @@
+C:\Users\ogrenci\Desktop\Projeler\SayilarinToplami2\SayilarinToplami2\bin\Debug\netcoreapp2.1\SayilarinToplami2.deps.json
+C:\Users\ogrenci\Desktop\Projeler\SayilarinToplami2\SayilarinToplami2\bin\Debug\netcoreapp2.1\SayilarinToplami2.runtimeconfig.json
+C:\Users\ogrenci\Desktop\Projeler\SayilarinToplami2\SayilarinToplami2\bin\Debug\netcoreapp2.1\SayilarinToplami2.runtimeconfig.dev.json
+C:\Users\ogrenci\Desktop\Projeler\SayilarinToplami2\SayilarinToplami2\bin\Debug\netcoreapp2.1\SayilarinToplami2.dll
+C:\Users\ogrenci\Desktop\Projeler\SayilarinToplami2\SayilarinToplami2\bin\Debug\netcoreapp2.1\SayilarinToplami2.pdb
+C:\Users\ogrenci\Desktop\Projeler\SayilarinToplami2\SayilarinToplami2\obj\Debug\netcoreapp2.1\SayilarinToplami2.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Projeler\SayilarinToplami2\SayilarinToplami2\obj\Debug\netcoreapp2.1\SayilarinToplami2.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\SayilarinToplami2\SayilarinToplami2\obj\Debug\netcoreapp2.1\SayilarinToplami2.AssemblyInfoInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\SayilarinToplami2\SayilarinToplami2\obj\Debug\netcoreapp2.1\SayilarinToplami2.AssemblyInfo.cs
+C:\Users\ogrenci\Desktop\Projeler\SayilarinToplami2\SayilarinToplami2\obj\Debug\netcoreapp2.1\SayilarinToplami2.dll
+C:\Users\ogrenci\Desktop\Projeler\SayilarinToplami2\SayilarinToplami2\obj\Debug\netcoreapp2.1\SayilarinToplami2.pdb

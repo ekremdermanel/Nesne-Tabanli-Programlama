@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp_28102021\KutuOyunu\KutuOyunu\bin\Debug\KutuOyunu.exe.config
+C:\Users\ogrenci\Desktop\ntp_28102021\KutuOyunu\KutuOyunu\bin\Debug\KutuOyunu.exe
+C:\Users\ogrenci\Desktop\ntp_28102021\KutuOyunu\KutuOyunu\bin\Debug\KutuOyunu.pdb
+C:\Users\ogrenci\Desktop\ntp_28102021\KutuOyunu\KutuOyunu\obj\Debug\KutuOyunu.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp_28102021\KutuOyunu\KutuOyunu\obj\Debug\KutuOyunu.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_28102021\KutuOyunu\KutuOyunu\obj\Debug\KutuOyunu.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_28102021\KutuOyunu\KutuOyunu\obj\Debug\KutuOyunu.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_28102021\KutuOyunu\KutuOyunu\obj\Debug\KutuOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_28102021\KutuOyunu\KutuOyunu\obj\Debug\KutuOyunu.exe
+C:\Users\ogrenci\Desktop\ntp_28102021\KutuOyunu\KutuOyunu\obj\Debug\KutuOyunu.pdb

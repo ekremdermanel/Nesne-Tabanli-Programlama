@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp_021221\Futbolcular\Futbolcular\obj\Debug\Futbolcular.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp_021221\Futbolcular\Futbolcular\obj\Debug\Futbolcular.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_021221\Futbolcular\Futbolcular\obj\Debug\Futbolcular.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_021221\Futbolcular\Futbolcular\obj\Debug\Futbolcular.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_021221\Futbolcular\Futbolcular\obj\Debug\Futbolcular.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_021221\Futbolcular\Futbolcular\bin\Debug\Futbolcular.exe.config
+C:\Users\ogrenci\Desktop\ntp_021221\Futbolcular\Futbolcular\bin\Debug\Futbolcular.exe
+C:\Users\ogrenci\Desktop\ntp_021221\Futbolcular\Futbolcular\bin\Debug\Futbolcular.pdb
+C:\Users\ogrenci\Desktop\ntp_021221\Futbolcular\Futbolcular\obj\Debug\Futbolcular.exe
+C:\Users\ogrenci\Desktop\ntp_021221\Futbolcular\Futbolcular\obj\Debug\Futbolcular.pdb

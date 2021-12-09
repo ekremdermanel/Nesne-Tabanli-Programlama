@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp_021221\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe.config
+C:\Users\ogrenci\Desktop\ntp_021221\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe
+C:\Users\ogrenci\Desktop\ntp_021221\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.pdb
+C:\Users\ogrenci\Desktop\ntp_021221\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_021221\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_021221\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_021221\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_021221\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.exe
+C:\Users\ogrenci\Desktop\ntp_021221\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.pdb
+C:\Users\ogrenci\Desktop\ntp_021221\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csprojAssemblyReference.cache

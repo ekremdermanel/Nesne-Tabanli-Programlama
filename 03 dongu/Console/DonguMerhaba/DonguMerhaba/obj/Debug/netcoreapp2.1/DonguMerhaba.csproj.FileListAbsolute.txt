@@ -1,0 +1,11 @@
+C:\Users\ogrenci\Desktop\Projeler\DonguMerhaba\DonguMerhaba\bin\Debug\netcoreapp2.1\DonguMerhaba.deps.json
+C:\Users\ogrenci\Desktop\Projeler\DonguMerhaba\DonguMerhaba\bin\Debug\netcoreapp2.1\DonguMerhaba.runtimeconfig.json
+C:\Users\ogrenci\Desktop\Projeler\DonguMerhaba\DonguMerhaba\bin\Debug\netcoreapp2.1\DonguMerhaba.runtimeconfig.dev.json
+C:\Users\ogrenci\Desktop\Projeler\DonguMerhaba\DonguMerhaba\bin\Debug\netcoreapp2.1\DonguMerhaba.dll
+C:\Users\ogrenci\Desktop\Projeler\DonguMerhaba\DonguMerhaba\bin\Debug\netcoreapp2.1\DonguMerhaba.pdb
+C:\Users\ogrenci\Desktop\Projeler\DonguMerhaba\DonguMerhaba\obj\Debug\netcoreapp2.1\DonguMerhaba.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Projeler\DonguMerhaba\DonguMerhaba\obj\Debug\netcoreapp2.1\DonguMerhaba.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\DonguMerhaba\DonguMerhaba\obj\Debug\netcoreapp2.1\DonguMerhaba.AssemblyInfoInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\DonguMerhaba\DonguMerhaba\obj\Debug\netcoreapp2.1\DonguMerhaba.AssemblyInfo.cs
+C:\Users\ogrenci\Desktop\Projeler\DonguMerhaba\DonguMerhaba\obj\Debug\netcoreapp2.1\DonguMerhaba.dll
+C:\Users\ogrenci\Desktop\Projeler\DonguMerhaba\DonguMerhaba\obj\Debug\netcoreapp2.1\DonguMerhaba.pdb

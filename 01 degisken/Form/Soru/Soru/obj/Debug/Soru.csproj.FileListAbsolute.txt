@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Soru\Soru\bin\Debug\Soru.exe.config
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Soru\Soru\bin\Debug\Soru.exe
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Soru\Soru\bin\Debug\Soru.pdb
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Soru\Soru\obj\Debug\Soru.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Soru\Soru\obj\Debug\Soru.Form1.resources
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Soru\Soru\obj\Debug\Soru.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Soru\Soru\obj\Debug\Soru.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Soru\Soru\obj\Debug\Soru.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Soru\Soru\obj\Debug\Soru.exe
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Soru\Soru\obj\Debug\Soru.pdb

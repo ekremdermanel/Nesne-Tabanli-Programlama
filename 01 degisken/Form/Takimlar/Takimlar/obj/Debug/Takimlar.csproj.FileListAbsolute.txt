@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Takimlar\Takimlar\bin\Debug\Takimlar.exe.config
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Takimlar\Takimlar\bin\Debug\Takimlar.exe
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Takimlar\Takimlar\bin\Debug\Takimlar.pdb
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Takimlar\Takimlar\obj\Debug\Takimlar.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Takimlar\Takimlar\obj\Debug\Takimlar.Form1.resources
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Takimlar\Takimlar\obj\Debug\Takimlar.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Takimlar\Takimlar\obj\Debug\Takimlar.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Takimlar\Takimlar\obj\Debug\Takimlar.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Takimlar\Takimlar\obj\Debug\Takimlar.exe
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Takimlar\Takimlar\obj\Debug\Takimlar.pdb

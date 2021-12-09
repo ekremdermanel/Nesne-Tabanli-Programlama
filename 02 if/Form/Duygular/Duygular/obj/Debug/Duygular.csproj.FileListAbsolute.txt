@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp_07102021\Duygular\Duygular\bin\Debug\Duygular.exe.config
+C:\Users\ogrenci\Desktop\ntp_07102021\Duygular\Duygular\bin\Debug\Duygular.exe
+C:\Users\ogrenci\Desktop\ntp_07102021\Duygular\Duygular\bin\Debug\Duygular.pdb
+C:\Users\ogrenci\Desktop\ntp_07102021\Duygular\Duygular\obj\Debug\Duygular.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp_07102021\Duygular\Duygular\obj\Debug\Duygular.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_07102021\Duygular\Duygular\obj\Debug\Duygular.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_07102021\Duygular\Duygular\obj\Debug\Duygular.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_07102021\Duygular\Duygular\obj\Debug\Duygular.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_07102021\Duygular\Duygular\obj\Debug\Duygular.exe
+C:\Users\ogrenci\Desktop\ntp_07102021\Duygular\Duygular\obj\Debug\Duygular.pdb

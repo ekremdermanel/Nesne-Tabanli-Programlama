@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Toplama\Toplama\bin\Debug\Toplama.exe.config
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Toplama\Toplama\bin\Debug\Toplama.exe
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Toplama\Toplama\bin\Debug\Toplama.pdb
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Toplama\Toplama\obj\Debug\Toplama.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Toplama\Toplama\obj\Debug\Toplama.Form1.resources
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Toplama\Toplama\obj\Debug\Toplama.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Toplama\Toplama\obj\Debug\Toplama.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Toplama\Toplama\obj\Debug\Toplama.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Toplama\Toplama\obj\Debug\Toplama.exe
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Toplama\Toplama\obj\Debug\Toplama.pdb

@@ -1,0 +1,10 @@
+E:\dosyalar\ntp\ntp_021221\Ulkeler\Ulkeler\bin\Debug\Ulkeler.exe.config
+E:\dosyalar\ntp\ntp_021221\Ulkeler\Ulkeler\bin\Debug\Ulkeler.exe
+E:\dosyalar\ntp\ntp_021221\Ulkeler\Ulkeler\bin\Debug\Ulkeler.pdb
+E:\dosyalar\ntp\ntp_021221\Ulkeler\Ulkeler\obj\Debug\Ulkeler.csprojAssemblyReference.cache
+E:\dosyalar\ntp\ntp_021221\Ulkeler\Ulkeler\obj\Debug\Ulkeler.Form1.resources
+E:\dosyalar\ntp\ntp_021221\Ulkeler\Ulkeler\obj\Debug\Ulkeler.Properties.Resources.resources
+E:\dosyalar\ntp\ntp_021221\Ulkeler\Ulkeler\obj\Debug\Ulkeler.csproj.GenerateResource.cache
+E:\dosyalar\ntp\ntp_021221\Ulkeler\Ulkeler\obj\Debug\Ulkeler.csproj.CoreCompileInputs.cache
+E:\dosyalar\ntp\ntp_021221\Ulkeler\Ulkeler\obj\Debug\Ulkeler.exe
+E:\dosyalar\ntp\ntp_021221\Ulkeler\Ulkeler\obj\Debug\Ulkeler.pdb

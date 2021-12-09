@@ -1,0 +1,10 @@
+E:\dosyalar\ntp\ntp 251121\Ogrenciler\Ogrenciler\bin\Debug\Ogrenciler.exe.config
+E:\dosyalar\ntp\ntp 251121\Ogrenciler\Ogrenciler\bin\Debug\Ogrenciler.exe
+E:\dosyalar\ntp\ntp 251121\Ogrenciler\Ogrenciler\bin\Debug\Ogrenciler.pdb
+E:\dosyalar\ntp\ntp 251121\Ogrenciler\Ogrenciler\obj\Debug\Ogrenciler.csprojAssemblyReference.cache
+E:\dosyalar\ntp\ntp 251121\Ogrenciler\Ogrenciler\obj\Debug\Ogrenciler.Form1.resources
+E:\dosyalar\ntp\ntp 251121\Ogrenciler\Ogrenciler\obj\Debug\Ogrenciler.Properties.Resources.resources
+E:\dosyalar\ntp\ntp 251121\Ogrenciler\Ogrenciler\obj\Debug\Ogrenciler.csproj.GenerateResource.cache
+E:\dosyalar\ntp\ntp 251121\Ogrenciler\Ogrenciler\obj\Debug\Ogrenciler.csproj.CoreCompileInputs.cache
+E:\dosyalar\ntp\ntp 251121\Ogrenciler\Ogrenciler\obj\Debug\Ogrenciler.exe
+E:\dosyalar\ntp\ntp 251121\Ogrenciler\Ogrenciler\obj\Debug\Ogrenciler.pdb

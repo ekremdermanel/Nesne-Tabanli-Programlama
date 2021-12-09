@@ -1,0 +1,9 @@
+C:\Users\ogrenci\Desktop\ntp_07102021\Alisveris\Alisveris\bin\Debug\Alisveris.exe.config
+C:\Users\ogrenci\Desktop\ntp_07102021\Alisveris\Alisveris\bin\Debug\Alisveris.exe
+C:\Users\ogrenci\Desktop\ntp_07102021\Alisveris\Alisveris\bin\Debug\Alisveris.pdb
+C:\Users\ogrenci\Desktop\ntp_07102021\Alisveris\Alisveris\obj\Debug\Alisveris.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_07102021\Alisveris\Alisveris\obj\Debug\Alisveris.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_07102021\Alisveris\Alisveris\obj\Debug\Alisveris.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_07102021\Alisveris\Alisveris\obj\Debug\Alisveris.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_07102021\Alisveris\Alisveris\obj\Debug\Alisveris.exe
+C:\Users\ogrenci\Desktop\ntp_07102021\Alisveris\Alisveris\obj\Debug\Alisveris.pdb

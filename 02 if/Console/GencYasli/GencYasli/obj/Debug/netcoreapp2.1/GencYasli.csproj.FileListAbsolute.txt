@@ -1,0 +1,11 @@
+C:\Users\ogrenci\Desktop\Projeler\GencYasli\GencYasli\bin\Debug\netcoreapp2.1\GencYasli.deps.json
+C:\Users\ogrenci\Desktop\Projeler\GencYasli\GencYasli\bin\Debug\netcoreapp2.1\GencYasli.runtimeconfig.json
+C:\Users\ogrenci\Desktop\Projeler\GencYasli\GencYasli\bin\Debug\netcoreapp2.1\GencYasli.runtimeconfig.dev.json
+C:\Users\ogrenci\Desktop\Projeler\GencYasli\GencYasli\bin\Debug\netcoreapp2.1\GencYasli.dll
+C:\Users\ogrenci\Desktop\Projeler\GencYasli\GencYasli\bin\Debug\netcoreapp2.1\GencYasli.pdb
+C:\Users\ogrenci\Desktop\Projeler\GencYasli\GencYasli\obj\Debug\netcoreapp2.1\GencYasli.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Projeler\GencYasli\GencYasli\obj\Debug\netcoreapp2.1\GencYasli.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\GencYasli\GencYasli\obj\Debug\netcoreapp2.1\GencYasli.AssemblyInfoInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\GencYasli\GencYasli\obj\Debug\netcoreapp2.1\GencYasli.AssemblyInfo.cs
+C:\Users\ogrenci\Desktop\Projeler\GencYasli\GencYasli\obj\Debug\netcoreapp2.1\GencYasli.dll
+C:\Users\ogrenci\Desktop\Projeler\GencYasli\GencYasli\obj\Debug\netcoreapp2.1\GencYasli.pdb

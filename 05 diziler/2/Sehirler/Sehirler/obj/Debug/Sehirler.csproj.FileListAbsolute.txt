@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp_021221\Sehirler\Sehirler\bin\Debug\Sehirler.exe.config
+C:\Users\ogrenci\Desktop\ntp_021221\Sehirler\Sehirler\bin\Debug\Sehirler.exe
+C:\Users\ogrenci\Desktop\ntp_021221\Sehirler\Sehirler\bin\Debug\Sehirler.pdb
+C:\Users\ogrenci\Desktop\ntp_021221\Sehirler\Sehirler\obj\Debug\Sehirler.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp_021221\Sehirler\Sehirler\obj\Debug\Sehirler.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_021221\Sehirler\Sehirler\obj\Debug\Sehirler.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_021221\Sehirler\Sehirler\obj\Debug\Sehirler.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_021221\Sehirler\Sehirler\obj\Debug\Sehirler.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_021221\Sehirler\Sehirler\obj\Debug\Sehirler.exe
+C:\Users\ogrenci\Desktop\ntp_021221\Sehirler\Sehirler\obj\Debug\Sehirler.pdb

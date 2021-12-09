@@ -1,0 +1,11 @@
+C:\Users\ogrenci\Desktop\Projeler\Sayilar\Sayilar\bin\Debug\netcoreapp2.1\Sayilar.deps.json
+C:\Users\ogrenci\Desktop\Projeler\Sayilar\Sayilar\bin\Debug\netcoreapp2.1\Sayilar.runtimeconfig.json
+C:\Users\ogrenci\Desktop\Projeler\Sayilar\Sayilar\bin\Debug\netcoreapp2.1\Sayilar.runtimeconfig.dev.json
+C:\Users\ogrenci\Desktop\Projeler\Sayilar\Sayilar\bin\Debug\netcoreapp2.1\Sayilar.dll
+C:\Users\ogrenci\Desktop\Projeler\Sayilar\Sayilar\bin\Debug\netcoreapp2.1\Sayilar.pdb
+C:\Users\ogrenci\Desktop\Projeler\Sayilar\Sayilar\obj\Debug\netcoreapp2.1\Sayilar.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\Sayilar\Sayilar\obj\Debug\netcoreapp2.1\Sayilar.AssemblyInfoInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\Sayilar\Sayilar\obj\Debug\netcoreapp2.1\Sayilar.AssemblyInfo.cs
+C:\Users\ogrenci\Desktop\Projeler\Sayilar\Sayilar\obj\Debug\netcoreapp2.1\Sayilar.dll
+C:\Users\ogrenci\Desktop\Projeler\Sayilar\Sayilar\obj\Debug\netcoreapp2.1\Sayilar.pdb
+C:\Users\ogrenci\Desktop\Projeler\Sayilar\Sayilar\obj\Debug\netcoreapp2.1\Sayilar.csprojAssemblyReference.cache

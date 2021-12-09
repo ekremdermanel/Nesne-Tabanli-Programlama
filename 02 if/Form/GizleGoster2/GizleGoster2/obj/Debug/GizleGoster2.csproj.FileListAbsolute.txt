@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp_07102021\GizleGoster2\GizleGoster2\bin\Debug\GizleGoster2.exe.config
+C:\Users\ogrenci\Desktop\ntp_07102021\GizleGoster2\GizleGoster2\bin\Debug\GizleGoster2.exe
+C:\Users\ogrenci\Desktop\ntp_07102021\GizleGoster2\GizleGoster2\bin\Debug\GizleGoster2.pdb
+C:\Users\ogrenci\Desktop\ntp_07102021\GizleGoster2\GizleGoster2\obj\Debug\GizleGoster2.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp_07102021\GizleGoster2\GizleGoster2\obj\Debug\GizleGoster2.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_07102021\GizleGoster2\GizleGoster2\obj\Debug\GizleGoster2.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_07102021\GizleGoster2\GizleGoster2\obj\Debug\GizleGoster2.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_07102021\GizleGoster2\GizleGoster2\obj\Debug\GizleGoster2.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_07102021\GizleGoster2\GizleGoster2\obj\Debug\GizleGoster2.exe
+C:\Users\ogrenci\Desktop\ntp_07102021\GizleGoster2\GizleGoster2\obj\Debug\GizleGoster2.pdb

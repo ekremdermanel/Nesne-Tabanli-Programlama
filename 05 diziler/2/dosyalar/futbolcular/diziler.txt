@@ -1,0 +1,6 @@
+string[] futbolcular = {"Baggio","Beckenbauer","Buffon","Cristiano Ronaldo","Hagi",
+        "Ibrahimovic","Maradona","Lionel Messi","Neymar","Pele","Platini","Ronaldinho","Ronaldo",
+        "Sabri","Van Basten","Zidane"};
+        string[] resimler = {"baggio.jpg","beckenbauer.jpg","buffon.jpg","cristiano_ronaldo.jpg","hagi.jpg",
+        "ibrahimovic.jpg","maradona.jpg","messi.jpg","neymar.jpg","pele.jpg","platini.jpg",
+        "ronaldinho.jpg","ronaldo.jpg","sabri.jpg","van_basten.jpg","zidane.jpg"};

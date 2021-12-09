@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp_211021\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe.config
+C:\Users\ogrenci\Desktop\ntp_211021\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe
+C:\Users\ogrenci\Desktop\ntp_211021\AracKiralama\AracKiralama\bin\Debug\AracKiralama.pdb
+C:\Users\ogrenci\Desktop\ntp_211021\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp_211021\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_211021\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_211021\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_211021\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_211021\AracKiralama\AracKiralama\obj\Debug\AracKiralama.exe
+C:\Users\ogrenci\Desktop\ntp_211021\AracKiralama\AracKiralama\obj\Debug\AracKiralama.pdb

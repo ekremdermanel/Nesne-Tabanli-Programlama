@@ -1,0 +1,3 @@
+string[] isimler = { "Berkay", "Tuana Rukiye", "Ali Cihan", "Muhammed Mehdi", "Sultan Hilal", "Yusuf", "Ali", "Abdullah", "Mertcan", "Zühre", "Beyzanur", "Enes", "Ensar", "Dilara", "Ege" };
+        int[] numaralar = { 1008, 1014, 1015, 1017, 1031, 1044, 1045, 1060, 1074, 1081, 1090, 1099, 1103, 1106, 1134 };
+        bool[] cinsiyetler = { true, false, true, true, false, true, true, true, true, false, false, true, true, false, true };

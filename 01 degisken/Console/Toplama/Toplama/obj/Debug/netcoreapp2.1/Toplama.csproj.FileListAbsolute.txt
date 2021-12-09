@@ -1,0 +1,11 @@
+C:\Users\ogrenci\Desktop\Projeler\Toplama\Toplama\bin\Debug\netcoreapp2.1\Toplama.deps.json
+C:\Users\ogrenci\Desktop\Projeler\Toplama\Toplama\bin\Debug\netcoreapp2.1\Toplama.runtimeconfig.json
+C:\Users\ogrenci\Desktop\Projeler\Toplama\Toplama\bin\Debug\netcoreapp2.1\Toplama.runtimeconfig.dev.json
+C:\Users\ogrenci\Desktop\Projeler\Toplama\Toplama\bin\Debug\netcoreapp2.1\Toplama.dll
+C:\Users\ogrenci\Desktop\Projeler\Toplama\Toplama\bin\Debug\netcoreapp2.1\Toplama.pdb
+C:\Users\ogrenci\Desktop\Projeler\Toplama\Toplama\obj\Debug\netcoreapp2.1\Toplama.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Projeler\Toplama\Toplama\obj\Debug\netcoreapp2.1\Toplama.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\Toplama\Toplama\obj\Debug\netcoreapp2.1\Toplama.AssemblyInfoInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\Toplama\Toplama\obj\Debug\netcoreapp2.1\Toplama.AssemblyInfo.cs
+C:\Users\ogrenci\Desktop\Projeler\Toplama\Toplama\obj\Debug\netcoreapp2.1\Toplama.dll
+C:\Users\ogrenci\Desktop\Projeler\Toplama\Toplama\obj\Debug\netcoreapp2.1\Toplama.pdb

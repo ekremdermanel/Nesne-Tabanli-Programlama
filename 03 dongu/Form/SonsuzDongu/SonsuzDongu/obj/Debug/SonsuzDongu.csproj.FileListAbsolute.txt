@@ -1,0 +1,9 @@
+C:\Users\ogrenci\Desktop\ntp_11112021\SonsuzDongu\SonsuzDongu\bin\Debug\SonsuzDongu.exe.config
+C:\Users\ogrenci\Desktop\ntp_11112021\SonsuzDongu\SonsuzDongu\bin\Debug\SonsuzDongu.exe
+C:\Users\ogrenci\Desktop\ntp_11112021\SonsuzDongu\SonsuzDongu\bin\Debug\SonsuzDongu.pdb
+C:\Users\ogrenci\Desktop\ntp_11112021\SonsuzDongu\SonsuzDongu\obj\Debug\SonsuzDongu.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_11112021\SonsuzDongu\SonsuzDongu\obj\Debug\SonsuzDongu.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_11112021\SonsuzDongu\SonsuzDongu\obj\Debug\SonsuzDongu.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\SonsuzDongu\SonsuzDongu\obj\Debug\SonsuzDongu.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\SonsuzDongu\SonsuzDongu\obj\Debug\SonsuzDongu.exe
+C:\Users\ogrenci\Desktop\ntp_11112021\SonsuzDongu\SonsuzDongu\obj\Debug\SonsuzDongu.pdb

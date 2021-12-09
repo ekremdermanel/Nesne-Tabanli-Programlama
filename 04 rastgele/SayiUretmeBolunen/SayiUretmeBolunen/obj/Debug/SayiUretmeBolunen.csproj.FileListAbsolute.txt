@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretmeBolunen\SayiUretmeBolunen\bin\Debug\SayiUretmeBolunen.exe.config
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretmeBolunen\SayiUretmeBolunen\bin\Debug\SayiUretmeBolunen.exe
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretmeBolunen\SayiUretmeBolunen\bin\Debug\SayiUretmeBolunen.pdb
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretmeBolunen\SayiUretmeBolunen\obj\Debug\SayiUretmeBolunen.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretmeBolunen\SayiUretmeBolunen\obj\Debug\SayiUretmeBolunen.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretmeBolunen\SayiUretmeBolunen\obj\Debug\SayiUretmeBolunen.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretmeBolunen\SayiUretmeBolunen\obj\Debug\SayiUretmeBolunen.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretmeBolunen\SayiUretmeBolunen\obj\Debug\SayiUretmeBolunen.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretmeBolunen\SayiUretmeBolunen\obj\Debug\SayiUretmeBolunen.exe
+C:\Users\ogrenci\Desktop\ntp_11112021\SayiUretmeBolunen\SayiUretmeBolunen\obj\Debug\SayiUretmeBolunen.pdb

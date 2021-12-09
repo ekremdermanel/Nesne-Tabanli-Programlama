@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp_28102021\RastgeleSayi\RastgeleSayi\bin\Debug\RastgeleSayi.exe.config
+C:\Users\ogrenci\Desktop\ntp_28102021\RastgeleSayi\RastgeleSayi\bin\Debug\RastgeleSayi.exe
+C:\Users\ogrenci\Desktop\ntp_28102021\RastgeleSayi\RastgeleSayi\bin\Debug\RastgeleSayi.pdb
+C:\Users\ogrenci\Desktop\ntp_28102021\RastgeleSayi\RastgeleSayi\obj\Debug\RastgeleSayi.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp_28102021\RastgeleSayi\RastgeleSayi\obj\Debug\RastgeleSayi.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_28102021\RastgeleSayi\RastgeleSayi\obj\Debug\RastgeleSayi.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_28102021\RastgeleSayi\RastgeleSayi\obj\Debug\RastgeleSayi.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_28102021\RastgeleSayi\RastgeleSayi\obj\Debug\RastgeleSayi.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_28102021\RastgeleSayi\RastgeleSayi\obj\Debug\RastgeleSayi.exe
+C:\Users\ogrenci\Desktop\ntp_28102021\RastgeleSayi\RastgeleSayi\obj\Debug\RastgeleSayi.pdb

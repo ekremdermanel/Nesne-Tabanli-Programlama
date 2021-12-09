@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp_28102021\TekCiftListeleme\TekCiftListeleme\bin\Debug\TekCiftListeleme.exe.config
+C:\Users\ogrenci\Desktop\ntp_28102021\TekCiftListeleme\TekCiftListeleme\bin\Debug\TekCiftListeleme.exe
+C:\Users\ogrenci\Desktop\ntp_28102021\TekCiftListeleme\TekCiftListeleme\bin\Debug\TekCiftListeleme.pdb
+C:\Users\ogrenci\Desktop\ntp_28102021\TekCiftListeleme\TekCiftListeleme\obj\Debug\TekCiftListeleme.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp_28102021\TekCiftListeleme\TekCiftListeleme\obj\Debug\TekCiftListeleme.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_28102021\TekCiftListeleme\TekCiftListeleme\obj\Debug\TekCiftListeleme.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_28102021\TekCiftListeleme\TekCiftListeleme\obj\Debug\TekCiftListeleme.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_28102021\TekCiftListeleme\TekCiftListeleme\obj\Debug\TekCiftListeleme.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_28102021\TekCiftListeleme\TekCiftListeleme\obj\Debug\TekCiftListeleme.exe
+C:\Users\ogrenci\Desktop\ntp_28102021\TekCiftListeleme\TekCiftListeleme\obj\Debug\TekCiftListeleme.pdb

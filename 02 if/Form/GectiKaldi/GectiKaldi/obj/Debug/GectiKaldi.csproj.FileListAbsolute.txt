@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp_07102021\GectiKaldi\GectiKaldi\bin\Debug\GectiKaldi.exe.config
+C:\Users\ogrenci\Desktop\ntp_07102021\GectiKaldi\GectiKaldi\bin\Debug\GectiKaldi.exe
+C:\Users\ogrenci\Desktop\ntp_07102021\GectiKaldi\GectiKaldi\bin\Debug\GectiKaldi.pdb
+C:\Users\ogrenci\Desktop\ntp_07102021\GectiKaldi\GectiKaldi\obj\Debug\GectiKaldi.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp_07102021\GectiKaldi\GectiKaldi\obj\Debug\GectiKaldi.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_07102021\GectiKaldi\GectiKaldi\obj\Debug\GectiKaldi.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_07102021\GectiKaldi\GectiKaldi\obj\Debug\GectiKaldi.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_07102021\GectiKaldi\GectiKaldi\obj\Debug\GectiKaldi.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_07102021\GectiKaldi\GectiKaldi\obj\Debug\GectiKaldi.exe
+C:\Users\ogrenci\Desktop\ntp_07102021\GectiKaldi\GectiKaldi\obj\Debug\GectiKaldi.pdb

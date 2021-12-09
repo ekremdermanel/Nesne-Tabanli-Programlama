@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp_11112021\SayilarinToplami\SayilarinToplami\bin\Debug\SayilarinToplami.exe.config
+C:\Users\ogrenci\Desktop\ntp_11112021\SayilarinToplami\SayilarinToplami\bin\Debug\SayilarinToplami.exe
+C:\Users\ogrenci\Desktop\ntp_11112021\SayilarinToplami\SayilarinToplami\bin\Debug\SayilarinToplami.pdb
+C:\Users\ogrenci\Desktop\ntp_11112021\SayilarinToplami\SayilarinToplami\obj\Debug\SayilarinToplami.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\SayilarinToplami\SayilarinToplami\obj\Debug\SayilarinToplami.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_11112021\SayilarinToplami\SayilarinToplami\obj\Debug\SayilarinToplami.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_11112021\SayilarinToplami\SayilarinToplami\obj\Debug\SayilarinToplami.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\SayilarinToplami\SayilarinToplami\obj\Debug\SayilarinToplami.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\SayilarinToplami\SayilarinToplami\obj\Debug\SayilarinToplami.exe
+C:\Users\ogrenci\Desktop\ntp_11112021\SayilarinToplami\SayilarinToplami\obj\Debug\SayilarinToplami.pdb

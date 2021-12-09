@@ -1,0 +1,10 @@
+D:\Ekrem\ntp_211021\Dongu\Dongu\bin\Debug\Dongu.exe.config
+D:\Ekrem\ntp_211021\Dongu\Dongu\bin\Debug\Dongu.exe
+D:\Ekrem\ntp_211021\Dongu\Dongu\bin\Debug\Dongu.pdb
+D:\Ekrem\ntp_211021\Dongu\Dongu\obj\Debug\Dongu.csprojAssemblyReference.cache
+D:\Ekrem\ntp_211021\Dongu\Dongu\obj\Debug\Dongu.Form1.resources
+D:\Ekrem\ntp_211021\Dongu\Dongu\obj\Debug\Dongu.Properties.Resources.resources
+D:\Ekrem\ntp_211021\Dongu\Dongu\obj\Debug\Dongu.csproj.GenerateResource.cache
+D:\Ekrem\ntp_211021\Dongu\Dongu\obj\Debug\Dongu.csproj.CoreCompileInputs.cache
+D:\Ekrem\ntp_211021\Dongu\Dongu\obj\Debug\Dongu.exe
+D:\Ekrem\ntp_211021\Dongu\Dongu\obj\Debug\Dongu.pdb

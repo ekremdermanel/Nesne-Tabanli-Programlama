@@ -1,0 +1,11 @@
+C:\Users\ogrenci\Desktop\Projeler\TekCiftSayisi\TekCiftSayisi\bin\Debug\netcoreapp2.1\TekCiftSayisi.deps.json
+C:\Users\ogrenci\Desktop\Projeler\TekCiftSayisi\TekCiftSayisi\bin\Debug\netcoreapp2.1\TekCiftSayisi.runtimeconfig.json
+C:\Users\ogrenci\Desktop\Projeler\TekCiftSayisi\TekCiftSayisi\bin\Debug\netcoreapp2.1\TekCiftSayisi.runtimeconfig.dev.json
+C:\Users\ogrenci\Desktop\Projeler\TekCiftSayisi\TekCiftSayisi\bin\Debug\netcoreapp2.1\TekCiftSayisi.dll
+C:\Users\ogrenci\Desktop\Projeler\TekCiftSayisi\TekCiftSayisi\bin\Debug\netcoreapp2.1\TekCiftSayisi.pdb
+C:\Users\ogrenci\Desktop\Projeler\TekCiftSayisi\TekCiftSayisi\obj\Debug\netcoreapp2.1\TekCiftSayisi.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Projeler\TekCiftSayisi\TekCiftSayisi\obj\Debug\netcoreapp2.1\TekCiftSayisi.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\TekCiftSayisi\TekCiftSayisi\obj\Debug\netcoreapp2.1\TekCiftSayisi.AssemblyInfoInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\TekCiftSayisi\TekCiftSayisi\obj\Debug\netcoreapp2.1\TekCiftSayisi.AssemblyInfo.cs
+C:\Users\ogrenci\Desktop\Projeler\TekCiftSayisi\TekCiftSayisi\obj\Debug\netcoreapp2.1\TekCiftSayisi.dll
+C:\Users\ogrenci\Desktop\Projeler\TekCiftSayisi\TekCiftSayisi\obj\Debug\netcoreapp2.1\TekCiftSayisi.pdb

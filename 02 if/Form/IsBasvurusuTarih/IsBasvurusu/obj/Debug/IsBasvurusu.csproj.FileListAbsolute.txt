@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp_211021\IsBasvurusu\IsBasvurusu\bin\Debug\IsBasvurusu.exe.config
+C:\Users\ogrenci\Desktop\ntp_211021\IsBasvurusu\IsBasvurusu\bin\Debug\IsBasvurusu.exe
+C:\Users\ogrenci\Desktop\ntp_211021\IsBasvurusu\IsBasvurusu\bin\Debug\IsBasvurusu.pdb
+C:\Users\ogrenci\Desktop\ntp_211021\IsBasvurusu\IsBasvurusu\obj\Debug\IsBasvurusu.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp_211021\IsBasvurusu\IsBasvurusu\obj\Debug\IsBasvurusu.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_211021\IsBasvurusu\IsBasvurusu\obj\Debug\IsBasvurusu.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_211021\IsBasvurusu\IsBasvurusu\obj\Debug\IsBasvurusu.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_211021\IsBasvurusu\IsBasvurusu\obj\Debug\IsBasvurusu.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_211021\IsBasvurusu\IsBasvurusu\obj\Debug\IsBasvurusu.exe
+C:\Users\ogrenci\Desktop\ntp_211021\IsBasvurusu\IsBasvurusu\obj\Debug\IsBasvurusu.pdb

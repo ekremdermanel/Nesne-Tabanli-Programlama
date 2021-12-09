@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp 251121\RastgeleSayiDizisi\RastgeleSayiDizisi\bin\Debug\RastgeleSayiDizisi.exe.config
+C:\Users\ogrenci\Desktop\ntp 251121\RastgeleSayiDizisi\RastgeleSayiDizisi\bin\Debug\RastgeleSayiDizisi.exe
+C:\Users\ogrenci\Desktop\ntp 251121\RastgeleSayiDizisi\RastgeleSayiDizisi\bin\Debug\RastgeleSayiDizisi.pdb
+C:\Users\ogrenci\Desktop\ntp 251121\RastgeleSayiDizisi\RastgeleSayiDizisi\obj\Debug\RastgeleSayiDizisi.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp 251121\RastgeleSayiDizisi\RastgeleSayiDizisi\obj\Debug\RastgeleSayiDizisi.Form1.resources
+C:\Users\ogrenci\Desktop\ntp 251121\RastgeleSayiDizisi\RastgeleSayiDizisi\obj\Debug\RastgeleSayiDizisi.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp 251121\RastgeleSayiDizisi\RastgeleSayiDizisi\obj\Debug\RastgeleSayiDizisi.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp 251121\RastgeleSayiDizisi\RastgeleSayiDizisi\obj\Debug\RastgeleSayiDizisi.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp 251121\RastgeleSayiDizisi\RastgeleSayiDizisi\obj\Debug\RastgeleSayiDizisi.exe
+C:\Users\ogrenci\Desktop\ntp 251121\RastgeleSayiDizisi\RastgeleSayiDizisi\obj\Debug\RastgeleSayiDizisi.pdb

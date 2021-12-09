@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Boyutlandirma\Boyutlandirma\bin\Debug\Boyutlandirma.exe.config
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Boyutlandirma\Boyutlandirma\bin\Debug\Boyutlandirma.exe
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Boyutlandirma\Boyutlandirma\bin\Debug\Boyutlandirma.pdb
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Boyutlandirma\Boyutlandirma\obj\Debug\Boyutlandirma.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Boyutlandirma\Boyutlandirma\obj\Debug\Boyutlandirma.Form1.resources
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Boyutlandirma\Boyutlandirma\obj\Debug\Boyutlandirma.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Boyutlandirma\Boyutlandirma\obj\Debug\Boyutlandirma.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Boyutlandirma\Boyutlandirma\obj\Debug\Boyutlandirma.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Boyutlandirma\Boyutlandirma\obj\Debug\Boyutlandirma.exe
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Boyutlandirma\Boyutlandirma\obj\Debug\Boyutlandirma.pdb

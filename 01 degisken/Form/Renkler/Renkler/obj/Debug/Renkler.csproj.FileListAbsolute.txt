@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Renkler\Renkler\bin\Debug\Renkler.exe.config
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Renkler\Renkler\bin\Debug\Renkler.exe
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Renkler\Renkler\bin\Debug\Renkler.pdb
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Renkler\Renkler\obj\Debug\Renkler.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Renkler\Renkler\obj\Debug\Renkler.Form1.resources
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Renkler\Renkler\obj\Debug\Renkler.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Renkler\Renkler\obj\Debug\Renkler.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Renkler\Renkler\obj\Debug\Renkler.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Renkler\Renkler\obj\Debug\Renkler.exe
+C:\Users\ogrenci\Desktop\Form Uygulamaları\Renkler\Renkler\obj\Debug\Renkler.pdb

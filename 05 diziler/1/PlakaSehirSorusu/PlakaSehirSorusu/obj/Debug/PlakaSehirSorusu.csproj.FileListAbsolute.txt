@@ -1,0 +1,10 @@
+E:\dosyalar\ntp\ntp 251121\PlakaSehirSorusu\PlakaSehirSorusu\bin\Debug\PlakaSehirSorusu.exe.config
+E:\dosyalar\ntp\ntp 251121\PlakaSehirSorusu\PlakaSehirSorusu\bin\Debug\PlakaSehirSorusu.exe
+E:\dosyalar\ntp\ntp 251121\PlakaSehirSorusu\PlakaSehirSorusu\bin\Debug\PlakaSehirSorusu.pdb
+E:\dosyalar\ntp\ntp 251121\PlakaSehirSorusu\PlakaSehirSorusu\obj\Debug\PlakaSehirSorusu.csprojAssemblyReference.cache
+E:\dosyalar\ntp\ntp 251121\PlakaSehirSorusu\PlakaSehirSorusu\obj\Debug\PlakaSehirSorusu.Form1.resources
+E:\dosyalar\ntp\ntp 251121\PlakaSehirSorusu\PlakaSehirSorusu\obj\Debug\PlakaSehirSorusu.Properties.Resources.resources
+E:\dosyalar\ntp\ntp 251121\PlakaSehirSorusu\PlakaSehirSorusu\obj\Debug\PlakaSehirSorusu.csproj.GenerateResource.cache
+E:\dosyalar\ntp\ntp 251121\PlakaSehirSorusu\PlakaSehirSorusu\obj\Debug\PlakaSehirSorusu.csproj.CoreCompileInputs.cache
+E:\dosyalar\ntp\ntp 251121\PlakaSehirSorusu\PlakaSehirSorusu\obj\Debug\PlakaSehirSorusu.exe
+E:\dosyalar\ntp\ntp 251121\PlakaSehirSorusu\PlakaSehirSorusu\obj\Debug\PlakaSehirSorusu.pdb

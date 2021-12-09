@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp_11112021\WhileOrnekleri\WhileOrnekleri\bin\Debug\WhileOrnekleri.exe.config
+C:\Users\ogrenci\Desktop\ntp_11112021\WhileOrnekleri\WhileOrnekleri\bin\Debug\WhileOrnekleri.exe
+C:\Users\ogrenci\Desktop\ntp_11112021\WhileOrnekleri\WhileOrnekleri\bin\Debug\WhileOrnekleri.pdb
+C:\Users\ogrenci\Desktop\ntp_11112021\WhileOrnekleri\WhileOrnekleri\obj\Debug\WhileOrnekleri.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\WhileOrnekleri\WhileOrnekleri\obj\Debug\WhileOrnekleri.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_11112021\WhileOrnekleri\WhileOrnekleri\obj\Debug\WhileOrnekleri.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_11112021\WhileOrnekleri\WhileOrnekleri\obj\Debug\WhileOrnekleri.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\WhileOrnekleri\WhileOrnekleri\obj\Debug\WhileOrnekleri.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\WhileOrnekleri\WhileOrnekleri\obj\Debug\WhileOrnekleri.exe
+C:\Users\ogrenci\Desktop\ntp_11112021\WhileOrnekleri\WhileOrnekleri\obj\Debug\WhileOrnekleri.pdb

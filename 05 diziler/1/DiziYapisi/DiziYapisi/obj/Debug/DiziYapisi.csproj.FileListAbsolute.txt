@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp 251121\DiziYapisi\DiziYapisi\bin\Debug\DiziYapisi.exe.config
+C:\Users\ogrenci\Desktop\ntp 251121\DiziYapisi\DiziYapisi\bin\Debug\DiziYapisi.exe
+C:\Users\ogrenci\Desktop\ntp 251121\DiziYapisi\DiziYapisi\bin\Debug\DiziYapisi.pdb
+C:\Users\ogrenci\Desktop\ntp 251121\DiziYapisi\DiziYapisi\obj\Debug\DiziYapisi.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp 251121\DiziYapisi\DiziYapisi\obj\Debug\DiziYapisi.Form1.resources
+C:\Users\ogrenci\Desktop\ntp 251121\DiziYapisi\DiziYapisi\obj\Debug\DiziYapisi.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp 251121\DiziYapisi\DiziYapisi\obj\Debug\DiziYapisi.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp 251121\DiziYapisi\DiziYapisi\obj\Debug\DiziYapisi.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp 251121\DiziYapisi\DiziYapisi\obj\Debug\DiziYapisi.exe
+C:\Users\ogrenci\Desktop\ntp 251121\DiziYapisi\DiziYapisi\obj\Debug\DiziYapisi.pdb

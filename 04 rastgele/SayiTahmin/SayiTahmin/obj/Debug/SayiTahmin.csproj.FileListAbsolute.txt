@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp_28102021\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.exe.config
+C:\Users\ogrenci\Desktop\ntp_28102021\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.exe
+C:\Users\ogrenci\Desktop\ntp_28102021\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.pdb
+C:\Users\ogrenci\Desktop\ntp_28102021\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp_28102021\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_28102021\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_28102021\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_28102021\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_28102021\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.exe
+C:\Users\ogrenci\Desktop\ntp_28102021\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.pdb

@@ -1,0 +1,11 @@
+C:\Users\ogrenci\Desktop\Projeler\TekCiftOrtalamasi\TekCiftOrtalamasi\bin\Debug\netcoreapp2.1\TekCiftOrtalamasi.deps.json
+C:\Users\ogrenci\Desktop\Projeler\TekCiftOrtalamasi\TekCiftOrtalamasi\bin\Debug\netcoreapp2.1\TekCiftOrtalamasi.runtimeconfig.json
+C:\Users\ogrenci\Desktop\Projeler\TekCiftOrtalamasi\TekCiftOrtalamasi\bin\Debug\netcoreapp2.1\TekCiftOrtalamasi.runtimeconfig.dev.json
+C:\Users\ogrenci\Desktop\Projeler\TekCiftOrtalamasi\TekCiftOrtalamasi\bin\Debug\netcoreapp2.1\TekCiftOrtalamasi.dll
+C:\Users\ogrenci\Desktop\Projeler\TekCiftOrtalamasi\TekCiftOrtalamasi\bin\Debug\netcoreapp2.1\TekCiftOrtalamasi.pdb
+C:\Users\ogrenci\Desktop\Projeler\TekCiftOrtalamasi\TekCiftOrtalamasi\obj\Debug\netcoreapp2.1\TekCiftOrtalamasi.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Projeler\TekCiftOrtalamasi\TekCiftOrtalamasi\obj\Debug\netcoreapp2.1\TekCiftOrtalamasi.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\TekCiftOrtalamasi\TekCiftOrtalamasi\obj\Debug\netcoreapp2.1\TekCiftOrtalamasi.AssemblyInfoInputs.cache
+C:\Users\ogrenci\Desktop\Projeler\TekCiftOrtalamasi\TekCiftOrtalamasi\obj\Debug\netcoreapp2.1\TekCiftOrtalamasi.AssemblyInfo.cs
+C:\Users\ogrenci\Desktop\Projeler\TekCiftOrtalamasi\TekCiftOrtalamasi\obj\Debug\netcoreapp2.1\TekCiftOrtalamasi.dll
+C:\Users\ogrenci\Desktop\Projeler\TekCiftOrtalamasi\TekCiftOrtalamasi\obj\Debug\netcoreapp2.1\TekCiftOrtalamasi.pdb

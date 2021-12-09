@@ -1,0 +1,10 @@
+E:\dosyalar\ntp\ntp 251121\Sehirler\Sehirler\bin\Debug\Sehirler.exe.config
+E:\dosyalar\ntp\ntp 251121\Sehirler\Sehirler\bin\Debug\Sehirler.exe
+E:\dosyalar\ntp\ntp 251121\Sehirler\Sehirler\bin\Debug\Sehirler.pdb
+E:\dosyalar\ntp\ntp 251121\Sehirler\Sehirler\obj\Debug\Sehirler.csprojAssemblyReference.cache
+E:\dosyalar\ntp\ntp 251121\Sehirler\Sehirler\obj\Debug\Sehirler.Form1.resources
+E:\dosyalar\ntp\ntp 251121\Sehirler\Sehirler\obj\Debug\Sehirler.Properties.Resources.resources
+E:\dosyalar\ntp\ntp 251121\Sehirler\Sehirler\obj\Debug\Sehirler.csproj.GenerateResource.cache
+E:\dosyalar\ntp\ntp 251121\Sehirler\Sehirler\obj\Debug\Sehirler.csproj.CoreCompileInputs.cache
+E:\dosyalar\ntp\ntp 251121\Sehirler\Sehirler\obj\Debug\Sehirler.exe
+E:\dosyalar\ntp\ntp 251121\Sehirler\Sehirler\obj\Debug\Sehirler.pdb

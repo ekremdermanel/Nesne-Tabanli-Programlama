@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp_28102021\UcakOyunu\UcakOyunu\bin\Debug\UcakOyunu.exe.config
+C:\Users\ogrenci\Desktop\ntp_28102021\UcakOyunu\UcakOyunu\bin\Debug\UcakOyunu.exe
+C:\Users\ogrenci\Desktop\ntp_28102021\UcakOyunu\UcakOyunu\bin\Debug\UcakOyunu.pdb
+C:\Users\ogrenci\Desktop\ntp_28102021\UcakOyunu\UcakOyunu\obj\Debug\UcakOyunu.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_28102021\UcakOyunu\UcakOyunu\obj\Debug\UcakOyunu.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_28102021\UcakOyunu\UcakOyunu\obj\Debug\UcakOyunu.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_28102021\UcakOyunu\UcakOyunu\obj\Debug\UcakOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_28102021\UcakOyunu\UcakOyunu\obj\Debug\UcakOyunu.exe
+C:\Users\ogrenci\Desktop\ntp_28102021\UcakOyunu\UcakOyunu\obj\Debug\UcakOyunu.pdb
+C:\Users\ogrenci\Desktop\ntp_28102021\UcakOyunu\UcakOyunu\obj\Debug\UcakOyunu.csprojAssemblyReference.cache

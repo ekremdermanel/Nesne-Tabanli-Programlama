@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ntp_11112021\SifreUretme\SifreUretme\bin\Debug\SifreUretme.exe.config
+C:\Users\ogrenci\Desktop\ntp_11112021\SifreUretme\SifreUretme\bin\Debug\SifreUretme.exe
+C:\Users\ogrenci\Desktop\ntp_11112021\SifreUretme\SifreUretme\bin\Debug\SifreUretme.pdb
+C:\Users\ogrenci\Desktop\ntp_11112021\SifreUretme\SifreUretme\obj\Debug\SifreUretme.csprojAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\SifreUretme\SifreUretme\obj\Debug\SifreUretme.Form1.resources
+C:\Users\ogrenci\Desktop\ntp_11112021\SifreUretme\SifreUretme\obj\Debug\SifreUretme.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ntp_11112021\SifreUretme\SifreUretme\obj\Debug\SifreUretme.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\SifreUretme\SifreUretme\obj\Debug\SifreUretme.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\ntp_11112021\SifreUretme\SifreUretme\obj\Debug\SifreUretme.exe
+C:\Users\ogrenci\Desktop\ntp_11112021\SifreUretme\SifreUretme\obj\Debug\SifreUretme.pdb
